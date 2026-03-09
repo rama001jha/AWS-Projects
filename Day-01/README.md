@@ -86,7 +86,7 @@ Infrastructure dedicated to a single organization.
 <h3>Hybrid Cloud</h3>
 
 <p>
-A combination of <b>public cloud</b> and <b>private cloud</b>.
+A combination of <b>public cloud</b> and <b>private cloud , where some resources are running on public cloud and some resources are running on private cloud.</b>.
 </p>
 
 <b>Example:</b>
