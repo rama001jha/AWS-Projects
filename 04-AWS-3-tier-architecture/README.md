@@ -8,4 +8,24 @@
        width="900"/>
 </p>
 
+<br>
+<br>
+<br>
+
+<h2 align="center">Step 1: VPC Creation</h2>
+
+<div dir="rtl">
+  <p>Go to the VPC service in AWS Management Console.</p>
+  <p>Click on "Create VPC" and select "VPC only".</p>
+  <p>Provide the name as "3tierapplication".</p>
+  <p>Enter the IPv4 CIDR block as 10.0.0.0/16.</p>
+  <p>Select the default tenancy option.</p>
+  <p>Click on "Create VPC" to complete the setup.</p>
+</div>
+
+
+<br>
+<br>
+<br>
+
 
