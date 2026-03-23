@@ -3,7 +3,7 @@
 <h2 align="center">Steps to be followed</h2>
 
 <p align="center">
-  <img src="https://github.com/rama001jha/AWS-Projects/raw/7ba56a5511f5286e1f980feec831ccfe3268c239/04-AWS-3-tier-architecture/Screenshot%202026-03-23%20185126.png" 
+  <img src="https://github.com/rama001jha/AWS-Projects/blob/676ff40d1edfff482f9b2350f9d3d7db0435ce45/04-AWS-3-tier-architecture/images/Screenshot%202026-03-23%20185126.png" 
        alt="AWS 3 Tier Architecture Diagram" 
        width="900"/>
 </p>
@@ -28,4 +28,36 @@
 <br>
 <br>
 
+
+<p align="center">
+  <img src="https://github.com/rama001jha/AWS-Projects/blob/85a72369fc244669d3fe5afe6944c2234cebe618/04-AWS-3-tier-architecture/images/Screenshot%202026-03-23%20191107.png" 
+       alt="AWS 3 Tier Architecture Diagram" 
+       width="1000"/>
+</p>
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github.com/rama001jha/AWS-Projects/blob/85a72369fc244669d3fe5afe6944c2234cebe618/04-AWS-3-tier-architecture/images/Screenshot%202026-03-23%20191122.png"
+       alt="AWS 3 Tier Architecture Diagram" 
+       width="1000"/>
+</p>
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github.com/rama001jha/AWS-Projects/blob/85a72369fc244669d3fe5afe6944c2234cebe618/04-AWS-3-tier-architecture/images/Screenshot%202026-03-23%20191152.png"
+       alt="AWS 3 Tier Architecture Diagram" 
+       width="1000"/>
+</p>
+
+<br>
+<br>
+<br>
+
+<h2 align="center">Step 2: Create Subnets</h2>
 
